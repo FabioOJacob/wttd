@@ -2,6 +2,9 @@
 
 Sistema de Eventos encomendado pela Morena.
 
+[![Build Status](https://travis-ci.org/FabioOJacob/wttd.svg?branch=master)](https://travis-ci.org/FabioOJacob/wttd)
+# falta adicionar o badge do landscape.
+
 ## Como desenvolver?
 
 1. Clone o repositório.
