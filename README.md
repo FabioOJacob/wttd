@@ -3,7 +3,7 @@
 Sistema de Eventos encomendado pela Morena.
 
 [![Build Status](https://travis-ci.org/FabioOJacob/wttd.svg?branch=master)](https://travis-ci.org/FabioOJacob/wttd)
-# falta adicionar o badge do landscape.
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/d5e30457bca14636bf6a65473b657d7f)](https://www.codacy.com/manual/FabioOJacob/wttd?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=FabioOJacob/wttd&amp;utm_campaign=Badge_Grade)
 
 ## Como desenvolver?
 
